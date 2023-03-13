@@ -1,4 +1,8 @@
 
+### Links
+
+- Solution URL: [https://github.com/teusobr/qr-code/tree/main/qr-code-component-main]
+- Live Site URL: [https://teusobr.github.io/]
 
 ## My process
 
@@ -31,6 +35,7 @@ Simplifing the process of centering elements and atribuition of styles for bette
 
 ## Author
 
+- Website - [teusobr](https://teusobr.github.io/)
 - Frontend Mentor - [@teusobr](https://www.frontendmentor.io/profile/teusobr)
 - Twitter - [@teusobr](https://www.twitter.com/teusobr)
 
